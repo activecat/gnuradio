@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1405139435 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/34_this/main.cpp
+	<iostream>
+	"a.h"
+	"b.h"
+
+1405139463 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/34_this/a.cpp
+	<iostream>
+	"a.h"
+	"b.h"
+
+1405139354 /home/sgku/Dropbox/codeblocks_projects/gnuradio/34_this/a.h
+
+1405139229 /home/sgku/Dropbox/codeblocks_projects/gnuradio/34_this/b.h
+	"a.h"
+
+1405139279 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/34_this/b.cpp
+	<iostream>
+	"b.h"
+

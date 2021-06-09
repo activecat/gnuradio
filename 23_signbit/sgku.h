@@ -1,0 +1,6 @@
+#ifndef SGKU_H_INCLUDED
+#define SGKU_H_INCLUDED
+
+
+
+#endif // SGKU_H_INCLUDED

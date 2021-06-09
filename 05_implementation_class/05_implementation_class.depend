@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1389883893 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/05_implementation_class/main.cpp
+	<iostream>
+	"A_impl.h"
+
+1389883334 /home/sgku/Dropbox/codeblocks_projects/gnuradio/05_implementation_class/A_impl.h
+	"A.h"
+
+1389884127 /home/sgku/Dropbox/codeblocks_projects/gnuradio/05_implementation_class/A.h
+	<boost/shared_ptr.hpp>
+

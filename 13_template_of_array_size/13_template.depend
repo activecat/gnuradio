@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1390521060 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/13_template/main.cpp
+	<iostream>
+
+1390521852 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/13_array_size_template/main.cpp
+	<iostream>
+
+1390521852 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/13_template_of_array_size/main.cpp
+	<iostream>
+

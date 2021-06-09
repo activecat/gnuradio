@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1393909852 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/25_FFTW/main.cpp
+	<iostream>
+	<fftw3.h>
+

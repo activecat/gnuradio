@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403429726 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/32_asio/main.cpp
+	<boost/asio.hpp>
+	<iostream>
+

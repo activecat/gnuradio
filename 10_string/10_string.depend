@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390276048 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/10_string/main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+

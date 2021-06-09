@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1389083981 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/01_datatype/main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1389083981 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/01_gr_vector/main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1389842913 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/01_gr_vector_void_star/main.cpp
+	<iostream>
+	<vector>
+

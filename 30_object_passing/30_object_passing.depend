@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1403272163 source:/home/sgku/Dropbox/codeblocks_projects/gnuradio/30_object_passing/main.cpp
+	<iostream>
+	"A.h"
+	"B.h"
+
+1403185768 /home/sgku/Dropbox/codeblocks_projects/gnuradio/30_object_passing/A.h
+
+1403272068 /home/sgku/Dropbox/codeblocks_projects/gnuradio/30_object_passing/B.h
+	"A.h"
+
